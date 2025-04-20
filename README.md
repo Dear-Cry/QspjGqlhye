@@ -6,7 +6,7 @@ The relevant models in this report are saved in the saved\_model folder and have
 - https://drive.google.com/drive/folders/10sXBiwSed2kf1YKBJ_bdQwmAi15xbohv?usp=sharing
 
 They are originalmodel.pickle(section 2), 2HSGD.pickle(section 3.1), 3HSGD.pickle(section 3.2), 2HAdam.pickle(section 4.2),
-2HAdamEarly.pickle(section 5.3), 2HAdamCNN.pickle(section 6),best\_model.pickle(section 9)
+2HAdamEarly.pickle(section 5.3), 2HAdamCNN.pickle(section 6),2HAdamHyperSelect.pickle(section 8),best\_model.pickle(section 9)
 
 The MNIST dataset is in the dataset/MNIST folder and has been uploaded to Google Drive(same link above)
 
